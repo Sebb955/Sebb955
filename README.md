@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebb955&" alt="sebb955" /></p>
 
+![snake gif](https://github.com/Sebb955/Sebb955/blob/output/github-contribution-grid-snake.gif)
