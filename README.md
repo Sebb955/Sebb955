@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://learn.microsoft.com/fr-fr/users/seblfz" target="blank"><img align="center" src="linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/slafrizi" target="blank"><img align="center" src="linked-in-alt.svg" alt="slafrizi" height="22" width="40" /></a>
 <a href="https://discord.gg/412743387108605972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="412743387108605972" height="30" width="40" /></a>
 </p>
