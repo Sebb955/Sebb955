@@ -1,3 +1,5 @@
+![pixel](https://github.com/Sebb955/Sebb955/assets/79416415/52e35ac6-f298-4e76-9c81-5c4f30c6bd5d)
+
 <h1 align="center">Salut 👋, Je suis LAFRIZI Sebastien</h1>
 <h3 align="center">Etudiant passionné par la programmation et les nouvelles technologies.</h3>
 
