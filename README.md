@@ -9,6 +9,8 @@
 
 - 🌱 **Je suis actuellement en train d'approfondir le développement web.**
 
+- 👨‍💻 **Je code occasionnellement...**
+
 - 💬 **Je suis ouvert à de nouvelles opportunités professionnelles et de collaboration.**
 
 <h3 align="left">Connect with me:</h3>
