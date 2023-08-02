@@ -1,8 +1,6 @@
 ![pixel](https://github.com/Sebb955/Sebb955/assets/79416415/52e35ac6-f298-4e76-9c81-5c4f30c6bd5d)
 
-<h1 align="center">𝓢𝓪𝓵𝓾𝓽, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="Hi.gif" width="40px" />
-</h1>
+<h1 align="center">𝓢𝓪𝓵𝓾𝓽, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!👋</h1>
 <h3 align="center">Etudiant passionné par la programmation et les nouvelles technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebb955&label=Profile%20views&color=0e75b6&style=flat" alt="sebb955" /> </p>
