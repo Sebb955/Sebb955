@@ -9,7 +9,7 @@
 
 - 🌱 **Je suis actuellement en train d'approfondir le développement web.**
 
-- 👨‍💻 **Je code occasionnellement...**
+- 👨‍💻 **Je code occasionnellement et pour le plaisir (pas envie de devenir dev :/)...**
 
 - 💬 **Je suis ouvert à de nouvelles opportunités professionnelles et de collaboration.**
 <br>
