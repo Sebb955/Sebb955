@@ -25,7 +25,7 @@
 <br>
 <h2 align="left">📊 Github stats:</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebb955&show_icons=true&locale=en&layout=compact" alt="sebb955" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebb955&show_icons=true&locale=en&layout=compact" alt="sebb955" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebb955&" alt="sebb955" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebb955&" alt="sebb955" /></p>
+
 
