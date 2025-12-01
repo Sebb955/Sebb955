@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebb955&label=Profile%20views&color=0e75b6&style=flat" alt="sebb955" /> </p>
 
-- 🎓 **Actuellement étudiant en M2 MIAGE à l'Univeristé de Paris Saclay.**
+- 🎓 **Etudiant en M2 MIAGE à l'Univeristé de Paris Saclay.**
 
 - 🌱 **Je suis actuellement en train d'approfondir l'analyse de donnée.**
 
